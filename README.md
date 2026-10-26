@@ -1,0 +1,1 @@
+autodeploy git sync test
